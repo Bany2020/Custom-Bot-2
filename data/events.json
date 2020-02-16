@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"setgame","temp":"60","event-type":"3","actions":[{"gameName":"!cHelp","gameLink":"","name":"Set Bot Game"},{"name":"End Action Sequence"}]}]
